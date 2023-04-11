@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hamsunny/-react-todo-app/static/css/main.35c3fb16.css",
+    "main.js": "/Hamsunny/-react-todo-app/static/js/main.3068e697.js",
+    "static/js/787.7f2c2da0.chunk.js": "/Hamsunny/-react-todo-app/static/js/787.7f2c2da0.chunk.js",
+    "index.html": "/Hamsunny/-react-todo-app/index.html",
+    "main.35c3fb16.css.map": "/Hamsunny/-react-todo-app/static/css/main.35c3fb16.css.map",
+    "main.3068e697.js.map": "/Hamsunny/-react-todo-app/static/js/main.3068e697.js.map",
+    "787.7f2c2da0.chunk.js.map": "/Hamsunny/-react-todo-app/static/js/787.7f2c2da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c3fb16.css",
+    "static/js/main.3068e697.js"
+  ]
+}
